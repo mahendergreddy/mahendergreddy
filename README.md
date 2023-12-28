@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahender</h1>
-<h3 align="center">Full Stack Developer SPECIALIZED IN DESIGN AND DEVELOPMENT OF IOT/MOBILE/WEB APPS/OPENAI</h3>
+<h3 align="center">Experienced IT professional adept in harnessing the power of AWS, specializing in Full Stack development and Mobile app deployment. Proficient in orchestrating containerized applications using Kubernetes and leveraging Java to craft robust, scalable solutions for diverse technological landscapes.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendergreddy&label=Profile%20views&color=0e75b6&style=flat" alt="mahendergreddy" /> </p>
 
