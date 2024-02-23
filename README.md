@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mahenderg" target="blank"><img src="https://img.shields.io/twitter/follow/mahenderg?logo=twitter&style=for-the-badge" alt="mahenderg" /></a> </p>
 
-- 📫 How to reach me **mahendervg@xxxx.com**
+- 📫 How to reach me **mahendervg@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
